@@ -1,0 +1,1 @@
+screen -dm lunestream run .
